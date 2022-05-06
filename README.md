@@ -1,7 +1,6 @@
 ### Olá mundo !
 
 
-- 👨‍💻 Apaixonado por códigos ...
 - 💻 Analise em desenvolvimento de sistemas ...
 <div align="center">
   <a href="https://github.com/saguinizinho">
