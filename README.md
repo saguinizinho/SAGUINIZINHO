@@ -36,4 +36,4 @@
 </div>
 
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=SAGUINIZINHO&repo=SAGUINIZINHO&theme=react)](https://github.com/SAGUINIZINHO/SAGUINIZINHO)
+
