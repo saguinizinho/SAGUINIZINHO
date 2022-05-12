@@ -2,6 +2,7 @@
 
 
 - 💻 Analise em desenvolvimento de sistemas ...
+- 📚 etec taquaritinga
 <div align="center">
   <a href="https://github.com/saguinizinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saguinizinho&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
