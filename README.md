@@ -1,6 +1,6 @@
 ### Olá mundo !
 
-
+  💻  Analise em vulnerabilidade 
 - 💻 Analise em desenvolvimento de sistemas ...
 - 📚 etec taquaritinga
 - 📚 wizard taquaritinga 
