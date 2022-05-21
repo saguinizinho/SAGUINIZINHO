@@ -1,7 +1,8 @@
 ### Olá mundo !
 
-  💻  Analise em vulnerabilidade 
+
 - 💻 Analise em desenvolvimento de sistemas ...
+- 💻 Analise em vulnerabilidade 
 - 📚 etec taquaritinga
 - 📚 wizard taquaritinga 
 - 📚 Inglês (Intermediário)
