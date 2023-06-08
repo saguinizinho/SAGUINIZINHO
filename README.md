@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá mundo !<br>💻 Analise em desenvolvimento de sistemas ...<br>📚 etec taquaritinga<br>📚 wizard taquaritinga<br>📚 Inglês (Básico)<br>📚 A procura de novos conhecimentos no mundo da TI
+Hello world !<br>💻 Analise em desenvolvimento de sistemas ...<br>📚 etec taquaritinga<br>📚 wizard taquaritinga<br><br>📚 The search for new knowledge in the world of technology.
 
 
 ## 🌐 Socials:
