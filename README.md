@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world !<br>💻 Analise em desenvolvimento de sistemas ...<br>📚 The search for new knowledge in the world of technology.
+🌍Hello world !<br>💻 Analise em desenvolvimento de sistemas ...<br>📚 The search for new knowledge in the world of technology.
 
 
 ## 🌐 Socials:
