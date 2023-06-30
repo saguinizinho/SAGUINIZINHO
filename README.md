@@ -4,9 +4,11 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saguinizinho&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Caio Saguini github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saguinizinho&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=0d1117" />
+ <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=saguinizinho&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saguinizinho&layout=compact&langs_count=16&theme=transparent" />
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saguinizinho&bg_color=0d1117&color=0000FF&line=87CEEB&point=6495ED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
