@@ -1,4 +1,4 @@
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Back-end`**
 
 Desenvolvedor em formação com sólida base técnica em Desenvolvimento de Sistemas pela ETEC e, atualmente, aprofundando meus conhecimentos na graduação em Análise e Desenvolvimento de Sistemas na Fatec. Sou apaixonado por tecnologia e busco ativamente aplicar meu aprendizado na criação de soluções práticas e eficientes para problemas reais.
 
